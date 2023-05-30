@@ -49,4 +49,7 @@
 ---
 <div id="footer" align="center">
   <img src="https://media.tenor.com/VtFUW-durpoAAAAC/kururin-kuru-kuru.gif" width=100>
+    <div>
+      <b>Kururin~</b>
+  </div>
 </div>
