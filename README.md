@@ -11,6 +11,10 @@
   <img src="https://media.tenor.com/QzCSE_zsymQAAAAC/shishiro-botan-hololive.gif" width="500"/>
 </div>
 <h1></h1>
+<div>
+  <h2>Hello</h2>
+  <p>Hello, I am Lutfi, 2nd Year SE Student in UM. Nice to meet you</p>
+</div>
 <div id="social" align="center">
 <div id="badges">
   <a href="your-linkedin-URL">
