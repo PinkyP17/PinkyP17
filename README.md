@@ -18,18 +18,16 @@
 
 ## 👋 About Me
 
-Hey, I'm Lutfi — a final year **Software Engineering** student at University Malaya (CGPA 3.66) and a passionate **Full Stack Developer**. I love working at the intersection of system design and developer experience, building things that are both scalable and maintainable.
+**Ex - Software Engineering** student at University Malaya and a passionate **Full Stack Developer**. i write code.
 
-I've got hands-on experience across **frontend**, **backend**, **DevOps**, and even **IoT** — from shipping production code at Western Digital to founding UM's first-ever student-led Game Jam.
+i work **frontend**, **backend**, **DevOps**, **IoT** — do code, code work, me happy!
 
 ---
 
 ## 💼 Experience
 
-**Software Engineer Intern — Western Digital** *(July 2024 – January 2025)*
-- Built and deployed a scalable **web scraping application** in Python to process high-volume data
-- Maintained and improved a critical internal web app used company-wide (performance, stability, UX)
-- Managed **Kubernetes (K8s)** deployments and configurations for auxiliary applications
+**Software Engineer Intern — Western Digital**  
+**Associate Solution Consultant - CBS**
 
 ---
 
