@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/QzCSE_zsymQAAAAC/shishiro-botan-hololive.gif" width="400"/>
 
-# Wan Ahmad Lutfi
+# Pekopink
 ### Full Stack Developer · Software Engineering Student @ University Malaya
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
